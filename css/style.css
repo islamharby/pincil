@@ -1,0 +1,218 @@
+.navbar{
+	border-bottom: 6px solid #DDDDDD;
+	background-color: #FFF !important;
+}
+.logomain{
+	background-image: url("../image/img_2.jpg");
+	background-size: cover;
+	background-position: center;
+}
+.navbar-brand{
+	font-size: 1.5rem !important;
+	font-weight: 900 !important;
+	color: #000000 !important;
+	font-family: "Gotham",sans-serif;
+}
+.nav-item a{
+	font-size: 1.5rem !important;
+	font-weight: 900 !important;
+	color: #000000 !important;
+	font-family: "Gotham",sans-serif;
+}
+.logo{
+	text-align: center;
+	height: 600px;
+}
+.logo img{
+    height: 421px;
+    margin-top: 172px;
+}
+.wordes{
+	    text-align: center;
+}
+.wordes h2{
+	color: #fff;
+	font-weight: 900;
+	font-family: "Gotham",sans-serif;
+}
+.wordes a{
+    text-decoration: none;
+    color: #fff;
+	font-weight: bold;
+	font-family: "Gotham",sans-serif;
+}
+.pragraph-1{
+	text-align: center;
+}
+.pragraph-1 p{
+	font-size: 1.7rem;
+    text-align: center;
+    padding: 150px 0px 39px;
+    font-weight: bold;
+    font-family: "Gotham",sans-serif;
+}
+.FeaturedWork{
+	background: #1f1f53;
+    color: #fff;
+    padding: 40px 0;
+    font-size: 2.2rem;
+    font-weight: bold;
+}
+.model-1{
+	padding: 0px;
+}
+.model-1 img{
+	width: 100%;
+}
+.model-details-1{
+    background: #19ae94;
+    color: #FFF;
+    height: 225px;
+	padding: 56px 25px;
+    font-family: "Gotham",sans-serif;
+}
+.model-details-1 h2{
+	font-weight: 900;
+}
+.model-details-2{
+	background: #1fbddc;
+    color: #FFF;
+    height: 225px;
+	padding: 56px 25px;
+    font-family: "Gotham",sans-serif;
+}
+.model-details-3{
+	background: #fed93e;
+    color: #FFF;
+    height: 225px;
+	padding: 56px 25px;
+    font-family: "Gotham",sans-serif;
+}
+.model-details-4{
+	background: #0ba052;
+    color: #FFF;
+    height: 225px;
+	padding: 56px 25px;
+    font-family: "Gotham",sans-serif;
+}
+.model-details-5{
+	background: #ff2761;
+    color: #FFF;
+    height: 225px;
+	padding: 56px 25px;
+    font-family: "Gotham",sans-serif;
+}
+.model-details-6{
+	background: #0b0b0a;
+    color: #FFF;
+    height: 225px;
+	padding: 56px 25px;
+    font-family: "Gotham",sans-serif;
+}
+.model-details-2 h2{
+	font-weight: 900;
+}
+.model-details-3 h2{
+	font-weight: 900;
+}
+.model-details-4 h2{
+	font-weight: 900;
+}
+.model-details-5 h2{
+	font-weight: 900;
+}
+.model-details-6 h2{
+	font-weight: 900;
+}
+.about{
+	padding: 70px;
+    background: #1fbddc;
+    color: #fff;
+}
+.about h2{
+	font-size: 2.5rem;
+    font-weight: 900;
+}
+.about p{
+	font-size: 1.2rem;
+    font-weight: bold;
+}
+.about-image{
+	padding: 60px;
+    background: #d9d9d9;
+    text-align: center;
+}
+.about-image img{
+	width: 80%;
+    max-width: 350px;
+}
+.toutch{
+	display: block;
+    background: #ff2761;
+    text-decoration: none;
+    height: 100%;
+    margin: 0 -15px;
+    padding: 100px 80px;
+}
+.toutch:hover{
+	background-color: #19ae94 !important;
+}
+.text{
+	color: #000;
+}
+.Touch{
+	font-size: 1.7rem;
+	font-weight: 900;
+	color: #FFF;
+}
+.contact-info{
+	background: #f2f2f2;
+	padding: 100px 80px 0 80px;
+	font-family: "Gotham",sans-serif;
+}
+.footer .contact-info>.row{
+	height: 100%;
+}
+.social-accounts{
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+}
+.social-accounts a{
+	text-align: center;
+    padding: 6px;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    margin: 5px;
+    color: #fff;
+    margin-bottom: 5px;
+}
+.facebook{
+	background-color: #1f1f53;
+}
+.youtube{
+    background-color: #ff2761;
+}
+.vimeo{
+    background-color: #0b0b0a;
+}
+.tiwitter{
+    background-color: #1fbddc;
+}
+.linkedin{
+	background-color: #fed93e;
+}
+.plus-google{
+    background-color: #0ba052;
+}
+.copyright{
+	text-align: right;
+    margin-top: auto;
+    margin-bottom: 25px;
+    font-size: .9rem;
+}
+.copyright a{
+	color: #000;
+    text-decoration: none;
+}
